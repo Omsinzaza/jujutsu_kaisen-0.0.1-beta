@@ -1,0 +1,20 @@
+{
+  "hollow_purple_start": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "jujutsukaisen:hollow_purple_start",
+        "stream": true
+      }
+    ]
+  },
+  "hollow_purple_shoot": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "jujutsukaisen:hollow_purple_shoot",
+        "stream": true
+      }
+    ]
+  }
+}
